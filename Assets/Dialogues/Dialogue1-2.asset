@@ -9,19 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 498e7f0a61dd64e4eb37689c8f5e8b96, type: 3}
+  m_Script: {fileID: 11500000, guid: cb1634c1fadc4d24db424ce706569c53, type: 3}
   m_Name: Dialogue1-2
   m_EditorClassIdentifier: 
-  dialogueIndex: 2
-  dialogueText: 'Grim-visaged war hath smooth''d his wrinkled front;
-
-    And now,
-    instead of mounting barbed steeds
-
-    To fright the souls of fearful adversaries,
-
-    He
-    capers nimbly in a lady''s chamber
-
-    To the lascivious pleasing of a lute.'
+  dialogueIndex: 0
+  dialogueText: 1-2
   animationStateName: npcReactGeneral

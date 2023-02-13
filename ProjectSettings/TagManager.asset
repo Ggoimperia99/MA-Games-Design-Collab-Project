@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -15,6 +16,9 @@ TagManager:
   - 
   - 
   - 
+  - whatIsGround
+  - 
+  - greenCubes
   - 
   - 
   - 
@@ -22,11 +26,8 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Stencil_Layer1
+  - Stencil_Layer2
   - 
   - 
   - 
